@@ -27,6 +27,7 @@ $username=$_POST["uname"];
 $password=$_POST["pwd"];
 session_start();
 //$_SESSION["uname"]=$username;
+//anantha
 
 $con=mysqli_connect("localhost","root","bose123$","bankdb");
 

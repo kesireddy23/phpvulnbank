@@ -5,7 +5,7 @@
 Account: <input type="text" name="aid"> <br><br>
 <input type="submit" value="getAccount">
 </form>
-
+//test
 
 <?php
 session_start();
